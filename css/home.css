@@ -1,0 +1,39 @@
+
+.nav{
+    width: 100%;
+    text-align: end;
+    text-align: center;
+    padding: 30px;
+    margin-left: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+}
+ul {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    text-align: right;
+    padding-left: 200px;
+    
+}
+.logo{
+    padding-left: 50px;
+}
+.container{
+    width: 100%;
+    background-image: url(asset\img\slider1.jpg);
+   
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: rgb(14, 9, 9);
+  }
+  
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
